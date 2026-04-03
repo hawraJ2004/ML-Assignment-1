@@ -8,9 +8,11 @@ Original shape: 740 rows × 21 columns
 After cleaning: 628 rows × 21 columns 
 
 3- Columns:
-The dataset contains 21 features, including:- Numeric:
+The dataset contains 21 features, including:
+- Numeric:
 Transportation expense, Distance from Residence to Work, Service time, Age, Workload 
-Average/day, Hit target, Weight, Height, Body mass index, Absenteeism time in hours.- Categorical
+Average/day, Hit target, Weight, Height, Body mass index, Absenteeism time in hours.
+- Categorical
 Reason for absence, Month of absence, Day of the week, Seasons, Disciplinary failure, 
 Education, Social drinker, social smoker, Pet.
 
